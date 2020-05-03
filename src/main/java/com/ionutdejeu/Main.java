@@ -1,5 +1,4 @@
 package com.ionutdejeu;
 
-public class Benchmarks {
-
+public class Main {
 }
