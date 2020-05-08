@@ -9,5 +9,8 @@
         <module name="java-performance-optimization-benchmarks" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="java-performance-optimization-benchmarks" target="7" />
+    </bytecodeTargetLevel>
   </component>
 </project>
